@@ -12,3 +12,4 @@ COMP 383: Computational Biology
 - Automated tool to identify homologs (orthologs and paralogs) between genomes
 - Keeps homolog lists for each genome and output a FASTA file for each cluster of homologs
 - Makes a local BLAST database for each genome and then BLAST everything against each other
+:)
